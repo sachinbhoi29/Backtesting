@@ -1,0 +1,2 @@
+you need to play the stock data for backtesting
+or you can make your own stocks data player
